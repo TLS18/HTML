@@ -1,0 +1,96 @@
+
+.header a
+{
+    text-align: center;
+    text-decoration-line: none;
+    color: gray;
+    height:50px;
+    line-height: 50px;
+    float:left;
+    margin-left: 80px;
+    font-size: 15px;
+}
+
+.header a:hover
+{
+    color: black;
+}
+
+.header a img
+{
+    height:50px;
+}
+
+.header
+{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#login
+{
+    margin: 0;
+    float: right;
+}
+
+#login img
+{
+    margin-top: 10px;
+    height:30px;
+    margin-left: 0;
+}
+
+.header
+{
+    height:50px;
+    margin: auto;
+}
+
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+.main
+{
+    background-image: url(img/psb.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    width: 100%;
+    height:630px;
+    float: left;
+}
+
+.main p:nth-child(1)
+{
+    color:white;
+    margin-top: 200px;
+    font-size: 32px;
+    margin-bottom: 0px;
+    letter-spacing: 12px;
+    text-shadow: 0 0 15px rgba(0,0,0,.3);
+}
+
+.main p:nth-child(2)
+{
+    font-size: 20px;
+    color:white;
+    letter-spacing: 3px;
+    text-shadow: 0 0 15px rgba(0,0,0,.3);
+}
+.footer
+{
+    float: left;
+    width: 100%;
+}
+.author
+{
+    font-size:15px;
+    color:gray;
+    width: 200px;
+    text-align: center;
+    height: 3em;
+    line-height: 3em;
+}
